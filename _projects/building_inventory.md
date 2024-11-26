@@ -35,7 +35,7 @@ This scatter plot, combined with a dynamic trend line, visualizes square footage
 Below are links to the dataset and Python notebook used for the analysis:
 
 <div class="left">
-{% include elements/button.html link="/assets/building_inventory.csv" text="The Dataset" %}
+{% include elements/button.html link= "https://github.com/vishaldevulapalli/vishaldevulapalli.github.io/blob/main/assets/building_inventory.csv" text="The Dataset" %}
 </div>
 
 <div class="right">
