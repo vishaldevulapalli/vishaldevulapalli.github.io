@@ -35,12 +35,11 @@ This scatter plot, combined with a dynamic trend line, visualizes square footage
 Below are links to the dataset and Python notebook used for the analysis:
 
 <div class="left">
-{% include elements/button.html link="{{ site.baseurl }}/assets/building_inventory.csv" text="The Dataset" %}
+{% include elements/button.html link="/assets/building_inventory.csv" text="The Dataset" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="{{ site.baseurl }}/python_notebooks/Visualizations.ipynb" text="The Analysis Notebook" %}
-</div>
+{% include elements/button.html link="/python_notebooks/Visualizations.ipynb" text="The Analysis Notebook" %}
 </div>
 
 ## Methods and Tools
@@ -61,8 +60,6 @@ This project uses:
 ---
 
 ## Embed Code Snippets
-
-Below are the HTML snippets used to embed the visualizations into this page:
 
 ### **Bar Chart**
 ```html
