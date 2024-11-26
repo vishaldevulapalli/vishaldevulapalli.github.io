@@ -39,7 +39,7 @@ Below are links to the dataset and Python notebook used for the analysis:
 </div>
 
 <div class="right">
-{% include elements/button.html link="/python_notebooks/Visualizations.ipynb" text="The Analysis Notebook" %}
+{% include elements/button.html link= "https://github.com/vishaldevulapalli/vishaldevulapalli.github.io/blob/main/python_notebooks/Visualizations.ipynb" text="The Analysis Notebook" %}
 </div>
 
 ## Methods and Tools
