@@ -79,23 +79,4 @@ This project uses:
 - **Jekyll**: To integrate the visualizations into this static webpage.
 - **Building Inventory Dataset**: A dataset showcasing building details, acquisition years, and square footage.
 
-## About the Visualizations
 
-1. **Bar Chart**: Displays the top 10 cities by total building square footage.  
-   - **Interactive Features**: Tooltip for city name and square footage details.
-
-2. **Scatter Plot with Trend Line**: Visualizes square footage trends over years with interactive filters.
-   - **Interactive Features**: Dropdown filter by city, trend line, and hover details.
-
----
-
-## Embed Code Snippets
-
-### **Bar Chart**
-```html
-<vegachart schema-url="{{ site.baseurl }}/assets/json/bar_chart.json" style="width: 100%"></vegachart>
-```
-### **Scatter Plot with Trend Line**
-```html
-<vegachart schema-url="{{ site.baseurl }}/assets/json/scatter_plot.json" style="width: 100%"></vegachart>
-```
